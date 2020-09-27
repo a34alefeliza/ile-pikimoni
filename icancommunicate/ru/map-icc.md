@@ -5,7 +5,7 @@
 
 НА УРОКЕ
 
-Для работы с упражнением ставьте галочку в нужной ячейке и отрабатывайте грамматические конструкции.
+Для работы с упражнением ставьте галочку в нужной ячейке и отрабатывайте грамматические конструкции, перемещая людей в нужные страны. 
 Например, 
 Who are they? Where do they live? What language do they speak? Where do you live? Do russians speak english?
 Who speaks english? Are they happy? Why are they crying? Are they at home? .. etc.
