@@ -16,6 +16,7 @@ Let's play cards. Here is the first mosquito. If you have a frog, beat the mosqu
 Ход переходит к другому игроку.
 
 ЦЕЛЬ: отработать сравнительную степень прилагательных и построение предложения с подлежащим третьего лица единственного числа.
+
 Who is stronger? The  hunter or the fox? - The hunter is stronger.- What does the hunter do? - He hunts. 
 Does the fox hunt the hunter? - No, it doesn't. It doesn't hunt the hunter. The hunter hunts the fox.
 Who is stronger? The fox or the heron? The fox is stronger.- What does the fox do? - It eats. 
