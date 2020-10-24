@@ -1,1 +1,1 @@
-Add students to the classroom. Once online, you can start interacting with them
+Отсюда начинаем урок, выбирая учеников для подключения к платформе для проведения занятия.
