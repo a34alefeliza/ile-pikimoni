@@ -1,1 +1,0 @@
-Here you can invite guests to your classroom. TH hey will recieve an invitation to join your classroom
