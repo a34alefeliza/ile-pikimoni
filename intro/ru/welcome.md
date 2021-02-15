@@ -1,4 +1,4 @@
-# Pikimoni Guide
+### Pikimoni Guide
 
 Добро пожаловать на PIKIMONI. 
 
