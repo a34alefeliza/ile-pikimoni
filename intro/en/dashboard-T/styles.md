@@ -1,0 +1,1 @@
+Here you can choose a theme or just a colored background as a wallpaper for the background, as well as change some other look&feel option. In addition, in the Text Exercises written using the Flower Reading technique, you can change the color version to regular black&white by checking the appropriate checkbox.

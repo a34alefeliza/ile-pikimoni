@@ -1,0 +1,1 @@
+From here you can start getting to know the platform through training videos for beginners of work, as well as webinars for advanced usage.

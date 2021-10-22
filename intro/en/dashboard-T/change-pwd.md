@@ -1,0 +1,1 @@
+Here you can change the password for logging into the platform.

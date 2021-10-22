@@ -1,0 +1,1 @@
+Here we register students and, if necessary, form groups.

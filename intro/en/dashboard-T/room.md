@@ -1,1 +1,1 @@
-Add students to the classroom. Once online, you can start interacting with them
+Here you can setup the classroom for the next lesson, picking up students with whom to interact.

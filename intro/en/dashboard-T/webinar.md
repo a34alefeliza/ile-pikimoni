@@ -1,0 +1,1 @@
+All those who have paid for the Full Plan can attend a webinar for free or receive the recording by email. Here, if you wish, you can sign up for the next LIVE webinar, if necessary.

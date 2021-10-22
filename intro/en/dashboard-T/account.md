@@ -1,0 +1,1 @@
+Here is information about your account, where you can update your e-mail address and other information.
