@@ -10,4 +10,5 @@
 
 * Всегда можно заменить персонажей в коллекции даже в Тeather's Book. Для этого зайдите в "Page collections" (шестеренка на панели управления). Далее нажмите на три точки рядом с нужной коллекцией (если это Teacher's Book то коллекция уже выбрана). Выберете функцию Edit. Уберите галочки справа с персонажей, которые вам не нужна. Выберете персонажей слева, поставит на них галочку.
 
-![image](https://user-images.githubusercontent.com/66912801/147378812-a15bef82-0ea1-4042-ae50-ccb989bdac6d.png) **3-3-04 Image to organise the game**
+**3-3-04 Image to organise the game**
+![WhatsApp Image 2021-12-25 at 09 18](https://user-images.githubusercontent.com/66912801/147378914-d1fc5cc9-eb53-4916-b6b2-7874a934bebe.png)
