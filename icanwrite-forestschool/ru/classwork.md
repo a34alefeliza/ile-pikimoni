@@ -8,6 +8,6 @@
 
 * Есть коллекции EXTRA в images 1 (+images 2 коллекции whiteboard/book background).
 
-*Урок 4-5 
+**Урок 4-5 
 
 [Видео "Про лингвистический трюк"](https://vk.com/video/@pikimoni?z=video-127712512_456239050%2Fclub127712512%2Fpl_-127712512_-2)
