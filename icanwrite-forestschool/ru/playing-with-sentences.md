@@ -21,4 +21,4 @@
 
 Также в течении 1-2 дней можно опубликовать эту работу в ВКонтакте, нажав «Login with VK».
 
-[Видео "Will+O](https://vk.com/video/@pikimoni?z=video-127712512_456239054%2Fpl_-127712512_1)
+[Видео "Will+O"](https://vk.com/video/@pikimoni?z=video-127712512_456239054%2Fpl_-127712512_1)
