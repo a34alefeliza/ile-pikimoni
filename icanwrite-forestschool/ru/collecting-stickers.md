@@ -14,3 +14,5 @@
 ![WhatsApp Image 2021-12-25 at 09 18](https://user-images.githubusercontent.com/66912801/147378914-d1fc5cc9-eb53-4916-b6b2-7874a934bebe.png)
 
 [Видео про упражнение 3-3-04 первый вариант](https://vk.com/video-127712512_456239224)
+
+[Видео про упражнение 3-3-04 вротой вариант](https://vk.com/video-127712512_456239225)
