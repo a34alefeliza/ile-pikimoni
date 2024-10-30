@@ -17,3 +17,4 @@
 Фото-пример к упр. 3-3-04
 ![3-3-04 фото-пример](https://github.com/user-attachments/assets/9537bab5-a7cc-45c8-bdd7-a7f1d88a4ebb)
 
+[Видео про упражнение 3-3-04] (https://vk.com/video-127712512_456239225)
