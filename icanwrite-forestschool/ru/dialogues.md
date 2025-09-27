@@ -5,8 +5,8 @@
 НА УРОКЕ
 
 **Чтобы ученикам были видны фразы, если они подставляют их сами, выберете расположение страницы vertical. Фразы расположены так, что нужные из них всегда будут находится в двух верхних строках.**
-<picture><img width="768" height="385" alt="image" src="https://github.com/user-attachments/assets/c831f320-eac6-495f-8d58-23f86605c28f" /></picture>
 
+<img width="768" height="385" alt="image" src="https://github.com/user-attachments/assets/c831f320-eac6-495f-8d58-23f86605c28f" />
 
 Далее есть два варианта работы с упражнением: 
 
